@@ -1,0 +1,244 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/f:db_contatoDataSet.Designer.cs" caret="0" fromTop="0" />
+      <File id="BA73D65E-D9EF-4314-BFB6-0502AEF41F13/f:SessionFactory.cs" caret="652" fromTop="20" />
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/f:Form1.Designer.cs" caret="489" fromTop="0" />
+      <File id="BA73D65E-D9EF-4314-BFB6-0502AEF41F13/d:Mapeamento/f:ContatoMap.cs" caret="0" fromTop="0" />
+      <File id="ECC4F852-96D4-4A55-9067-58C3FBFBB50B/f:packages.config" caret="0" fromTop="0" />
+      <File id="B83CED34-5A31-49D8-B318-ECA8FF5769F1/f:SessionFactoryTest.cs" caret="459" fromTop="16" />
+      <File id="B83CED34-5A31-49D8-B318-ECA8FF5769F1/f:ContatoTest.cs" caret="0" fromTop="0" />
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/f:Program.cs" caret="490" fromTop="17" />
+      <File id="BA73D65E-D9EF-4314-BFB6-0502AEF41F13/d:Repositorios/f:ContatoRepositorio.cs" caret="1103" fromTop="20" />
+      <File id="ECC4F852-96D4-4A55-9067-58C3FBFBB50B/f:Contato.cs" caret="238" fromTop="12" />
+      <File id="ECC4F852-96D4-4A55-9067-58C3FBFBB50B/d:Repositorios/f:IContatoRepositorio.cs" caret="204" fromTop="10" />
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/f:Form1.cs" caret="3378" fromTop="20" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BA73D65E-D9EF-4314-BFB6-0502AEF41F13/d:Repositorios/f:ContatoRepositorio.cs" caret="678" fromTop="16" />
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/f:Form1.cs" caret="4182" fromTop="15" />
+      <File id="BA73D65E-D9EF-4314-BFB6-0502AEF41F13/d:Mapeamento/f:ContatoMap.cs" caret="247" fromTop="12" />
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/f:Form1.cs" caret="4355" fromTop="14" />
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/f:Form1.Designer.cs" caret="9151" fromTop="12" />
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/f:Form1.cs" caret="986" fromTop="24" />
+      <File id="B83CED34-5A31-49D8-B318-ECA8FF5769F1/f:ContatoTest.cs" caret="343" fromTop="15" />
+      <File id="BA73D65E-D9EF-4314-BFB6-0502AEF41F13/f:SessionFactory.cs" caret="652" fromTop="20" />
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/f:Form1.cs" caret="1862" fromTop="28" />
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/f:Form1.cs" caret="1367" fromTop="4" />
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/f:Form1.cs" caret="1187" fromTop="0" />
+      <File id="BA73D65E-D9EF-4314-BFB6-0502AEF41F13/d:Repositorios/f:ContatoRepositorio.cs" caret="1091" fromTop="18" />
+      <File id="ECC4F852-96D4-4A55-9067-58C3FBFBB50B/d:Repositorios/f:IContatoRepositorio.cs" caret="239" fromTop="12" />
+      <File id="BA73D65E-D9EF-4314-BFB6-0502AEF41F13/d:Repositorios/f:ContatoRepositorio.cs" caret="972" fromTop="14" />
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/f:Form1.cs" caret="2512" fromTop="12" />
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/f:Form1.cs" caret="2513" fromTop="16" />
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/f:Form1.cs" caret="2304" fromTop="20" />
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/f:Form1.cs" caret="2487" fromTop="23" />
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/f:Form1.cs" caret="2200" fromTop="15" />
+      <File id="ECC4F852-96D4-4A55-9067-58C3FBFBB50B/f:Contato.cs" caret="66" fromTop="24" />
+      <File id="ECC4F852-96D4-4A55-9067-58C3FBFBB50B/f:Contato.cs" caret="216" fromTop="24" />
+      <File id="ECC4F852-96D4-4A55-9067-58C3FBFBB50B/f:Contato.cs" caret="66" fromTop="24" />
+      <File id="ECC4F852-96D4-4A55-9067-58C3FBFBB50B/f:Contato.cs" caret="66" fromTop="20" />
+      <File id="ECC4F852-96D4-4A55-9067-58C3FBFBB50B/f:Contato.cs" caret="66" fromTop="7" />
+      <File id="ECC4F852-96D4-4A55-9067-58C3FBFBB50B/f:Contato.cs" caret="242" fromTop="0" />
+      <File id="ECC4F852-96D4-4A55-9067-58C3FBFBB50B/f:Contato.cs" caret="74" fromTop="6" />
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/f:Form1.cs" caret="669" fromTop="18" />
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/f:Form1.cs" caret="3582" fromTop="18" />
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/f:Form1.cs" caret="3363" fromTop="19" />
+      <File id="B217A8A4-87E0-418F-BE92-B78D013BAE49/f:Form1.cs" caret="3236" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="Contato`0" priority="347" />
+      <Item value="int" priority="383" />
+      <Item value="using" priority="92" />
+      <Item value="FluentNHibernate" priority="30" />
+      <Item value="Mapping" priority="26" />
+      <Item value="object" priority="63" />
+      <Item value="id" priority="242" />
+      <Item value="IEnumerable" priority="95" />
+      <Item value="new" priority="735" />
+      <Item value="ContatoRepositorio" priority="115" />
+      <Item value="session" priority="218" />
+      <Item value="SearchDirectionHint`0" priority="31" />
+      <Item value="ContatoRepositorio`0" priority="63" />
+      <Item value="void" priority="31" />
+      <Item value="private" priority="191" />
+      <Item value="_repositorio" priority="85" />
+      <Item value="contato" priority="191" />
+      <Item value="Contato" priority="320" />
+      <Item value="CarregaGrid`0" priority="31" />
+      <Item value="Salvar`0" priority="31" />
+      <Item value="_contato" priority="31" />
+      <Item value="Excluir`0" priority="31" />
+      <Item value="SelecionaContato`0" priority="63" />
+      <Item value="var" priority="223" />
+      <Item value="ContatoTest" priority="28" />
+      <Item value="Nome" priority="95" />
+      <Item value="public" priority="159" />
+      <Item value="string" priority="255" />
+      <Item value="UriHostNameType`0" priority="63" />
+      <Item value="Id" priority="63" />
+      <Item value="nome" priority="127" />
+      <Item value="Session" priority="159" />
+      <Item value="Data" priority="61" />
+      <Item value="x" priority="127" />
+      <Item value="NHibernate" priority="26" />
+      <Item value="contato2" priority="31" />
+      <Item value="Dominio" priority="26" />
+      <Item value="SessionImpl" priority="86" />
+      <Item value="_session" priority="95" />
+      <Item value="ISessionFactory`0" priority="85" />
+      <Item value="SessionFactoryImpl`0" priority="31" />
+      <Item value="factory" priority="31" />
+      <Item value="TextBox`0" priority="31" />
+      <Item value="txtNome" priority="95" />
+      <Item value="IList" priority="63" />
+      <Item value="MessageBox`0" priority="159" />
+      <Item value="MessageBoxIcon`0" priority="95" />
+      <Item value="MessageBoxButtons`0" priority="127" />
+      <Item value="if" priority="159" />
+      <Item value="DialogResult" priority="26" />
+      <Item value="IdentityEqualityComparer`0" priority="63" />
+      <Item value="EnvironmentVariableTarget`0" priority="31" />
+      <Item value="IFeatureSupport`0" priority="31" />
+      <Item value="return" priority="223" />
+      <Item value="output" priority="95" />
+      <Item value="null" priority="31" />
+      <Item value="is" priority="31" />
+      <Item value="else" priority="31" />
+      <Item value="virtual" priority="31" />
+      <Item value="Map`0" priority="31" />
+      <Item value="txtCodigo" priority="127" />
+      <Item value="Int32`0" priority="26" />
+      <Item value="Convert`0" priority="117" />
+      <Item value="dgdContatos" priority="63" />
+      <Item value="char" priority="31" />
+      <Item value="Codigo" priority="31" />
+      <Item value="codigo" priority="31" />
+      <Item value="GetHashCode`0" priority="63" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISession">
+      <Item value="Get`0" priority="105" />
+      <Item value="Get`1" priority="22" />
+      <Item value="GetType`0" priority="26" />
+      <Item value="CreateQuery`0" priority="22" />
+      <Item value="Query`1" priority="72" />
+      <Item value="Delete`0" priority="26" />
+      <Item value="GetSession`0" priority="22" />
+      <Item value="Save`0" priority="53" />
+      <Item value="Flush`0" priority="26" />
+      <Item value="Clear`0" priority="27" />
+      <Item value="SaveOrUpdate`0" priority="45" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="ToList`1" priority="50" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="All`1" priority="45" />
+      <Item value="FirstOrDefault`1" priority="22" />
+      <Item value="ToList`1" priority="45" />
+      <Item value="First`1" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="OfType`1" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Dominio.Repositorios.IContatoRepositorio">
+      <Item value="Excluir`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridView">
+      <Item value="DataSource" priority="99" />
+      <Item value="CurrentCell" priority="45" />
+      <Item value="CurrentRow" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Testing.PersistenceSpecification`1">
+      <Item value="CheckProperty`1" priority="103" />
+      <Item value="VerifyTheMappings`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Dominio.Contato">
+      <Item value="Id" priority="53" />
+      <Item value="Nome" priority="134" />
+      <Item value="Codigo" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.IdentityPart">
+      <Item value="GeneratedBy" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.IdentityGenerationStrategyBuilder`1">
+      <Item value="Identity`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="GetAssembly`0" priority="22" />
+      <Item value="GetExecutingAssembly`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Data.SessionFactory">
+      <Item value="CreateFactory`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISessionFactory">
+      <Item value="OpenSession`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="184" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="108" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxIcon">
+      <Item value="Warning" priority="53" />
+      <Item value="Information" priority="54" />
+      <Item value="Exclamation" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxButtons">
+      <Item value="OK" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewCellEventArgs">
+      <Item value="RowIndex" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="26" />
+      <Item value="Empty" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="53" />
+      <Item value="ToString`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="Equals`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewCell">
+      <Item value="ColumnIndex" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements>
+        <UnitTestElement Provider="nUnit" Id="Test.ContatoTest" type="NUnitTestFixtureElement" Project="B83CED34-5A31-49D8-B318-ECA8FF5769F1" />
+        <UnitTestElement Provider="nUnit" Id="Test.ContatoTest.CrudTest" ParentId="Test.ContatoTest" type="NUnitTestElement" TypeName="Test.ContatoTest" MethodName="CrudTest" Project="B83CED34-5A31-49D8-B318-ECA8FF5769F1" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+</Configuration>

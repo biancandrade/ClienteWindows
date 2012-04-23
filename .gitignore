@@ -1,0 +1,7 @@
+bin/
+obj/
+/src/*.suo
+
+/src/_ReSharper.ClienteWindows
+/src/packages
+!/src/packages/repositories.config
